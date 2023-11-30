@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yusuf and I'm a  web developer, from Turkey.</p>
+<p align="left">My name is Yusuf and I'm a junior web developer, from Turkey.</p>
 
 ###
 
